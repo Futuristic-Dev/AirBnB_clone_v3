@@ -19,7 +19,7 @@ This project is add on to the AirBnB Clone with the usage of flask, flask_cors, 
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 16.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/Futuristic-Dev/AirBnB_clone_v3.git"`

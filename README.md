@@ -1,5 +1,5 @@
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+# 0x05. AirBnB clone - RESTful API
+This project is add on to the AirBnB Clone with the usage of flask, flask_cors, API's and Blueprint in flask to fulfill the requirements of the project at hand.
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -19,13 +19,15 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 16.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
-* Access AirBnb directory: `cd AirBnB_clone`
-* Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+* Clone this repository: `git clone "https://github.com/Futuristic-Dev/AirBnB_clone_v3.git"`
+* Access AirBnb_clone_v3 directory: `cd AirBnB_clone_v3`
+* Install flash using pip `pip3 install flask`
+* Install flash-cors using pip `pip install -U flask-cors`
+* Install pytest using pip `pip install pytest`
+
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
@@ -155,7 +157,7 @@ No known bugs at this time.
 
 ## Authors
 Papa Amoah - [Github](https://github.com/Futuristic-Dev) / [Twitter](https://twitter.com/Von_sledge1)  
-Saviour Assandoh - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+Saviour Assandoh - [Github](https://github.com/Saviour99) / [Twitter](https://twitter.com/SaviourDela99)
 
 Second part of Airbnb:
 ## License
